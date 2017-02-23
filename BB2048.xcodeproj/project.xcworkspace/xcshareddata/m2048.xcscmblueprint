@@ -1,0 +1,53 @@
+{
+<<<<<<< HEAD
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18AD4755CC4FFEF589CDE53D3BA30BD74BC7EB64",
+=======
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A4CB9242FA052F71AD601324ACFAB683EDD901FF",
+>>>>>>> 36fc9e03c48dbfb15a9dacb0fd2b7c2bfe3b0db8
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6C29944B3854DE4B2B51F0E5621256D4BB50671E" : 0,
+<<<<<<< HEAD
+    "18AD4755CC4FFEF589CDE53D3BA30BD74BC7EB64" : 0
+=======
+    "A4CB9242FA052F71AD601324ACFAB683EDD901FF" : 0
+>>>>>>> 36fc9e03c48dbfb15a9dacb0fd2b7c2bfe3b0db8
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46E96068-30C8-4E42-969A-96712A9424A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6C29944B3854DE4B2B51F0E5621256D4BB50671E" : "2048",
+<<<<<<< HEAD
+    "18AD4755CC4FFEF589CDE53D3BA30BD74BC7EB64" : "2048-NoSDK\/"
+=======
+    "A4CB9242FA052F71AD601324ACFAB683EDD901FF" : "2048-NoSDK\/"
+>>>>>>> 36fc9e03c48dbfb15a9dacb0fd2b7c2bfe3b0db8
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BB2048",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BB2048.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+<<<<<<< HEAD
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dennispiBB\/2048-NoSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18AD4755CC4FFEF589CDE53D3BA30BD74BC7EB64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSTestApps\/2048.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C29944B3854DE4B2B51F0E5621256D4BB50671E"
+=======
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iOSTestApps\/2048.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6C29944B3854DE4B2B51F0E5621256D4BB50671E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dennispiBB\/2048-NoSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4CB9242FA052F71AD601324ACFAB683EDD901FF"
+>>>>>>> 36fc9e03c48dbfb15a9dacb0fd2b7c2bfe3b0db8
+    }
+  ]
+}
